@@ -17,12 +17,12 @@ means of generating seemingly realistic recipe names.
 
 In this repo, I provide a couple of notebooks. They are:
 
-### `foodnames_autoencoder.ipynb`
+### foodnames_autoencoder.ipynb
 
 In this notebook, I only trained the autoencoder. Then, I select random
 encodings and use those to generate the fake recipe names.
 
-### `foodnames_gan.ipynb`
+### foodnames_gan.ipynb
 
 This notebook adds the GAN component. While the autoencoder should in
 principle train no differently from in the first notebook, this
