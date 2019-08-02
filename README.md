@@ -36,6 +36,17 @@ using plain Keras or an older version of Tensorflow (I only used tf.keras
 because of compatibility issues between Keras and the Tensorflow 2.0 beta).
 You will need Jupyter notebook to run any of the notebooks, as well as Numpy.
 
+## Future Work
+
+I don't know if I plan to do more with this project. However, I had a couple
+of ideas for how to extend the project:
+
+* Full recipe generation including
+    * Full instructions
+    * Ingredient list
+* Ingredient generation
+* Recipe image generation from recipe names
+
 ## Licenses
 
 The dataset used in the notebooks called Recipe Box provided by Eight Portions
